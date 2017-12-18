@@ -6,7 +6,7 @@ Change css to write as stylus
 # install
 1. clone the project
 ```
-git clone git@github.com:jindai0305/vue-laravel-explame.git
+git clone git@github.com:jindai0305/vue-laravel-simple-example.git
 ```
 2. Load required
 ```
